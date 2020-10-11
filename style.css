@@ -1,4 +1,16 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: black;
 }
+
+/* #score-container{
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    padding: 10px;
+    margin: 10px;
+    font-size: 2rem;
+} */
